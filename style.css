@@ -30,4 +30,11 @@ h1{
     color: aqua;
     font-family: 'comic sans ms', Times, serif;
 }   
-
+ 
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color:palevioletred;
+    font-family: 'comic sans ms', Times, serif;
+}   
