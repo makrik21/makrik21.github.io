@@ -1,0 +1,32 @@
+body{
+  
+    background-image: url(BG1.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    border-style: outset;
+    border-color: grey;
+    border-radius: 10px;
+    border-width: 10px;
+    margin-top: 300px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}   
+    
