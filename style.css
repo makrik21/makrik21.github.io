@@ -1,6 +1,6 @@
 body{
   
-    background-image: url(Gambar/BG1.png);
+    background-image: url(Gambar/015.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -27,6 +27,7 @@ h1{
     text-align: center;
     font-size: 50px;
     font-weight: bolder;
-    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    font-family: 'comic sans ms', Times, serif;
 }   
     
