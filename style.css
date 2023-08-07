@@ -10,11 +10,7 @@ body{
 img{
     width: 300px;
     height: auto;
-    border-style: outset;
-    border-color: grey;
-    border-radius: 10px;
-    border-width: 10px;
-    margin-top: 300px;
+    
 }
 
 .center{
@@ -30,4 +26,4 @@ h1{
     color: aqua;
     font-family: 'comic sans ms', Times, serif;
 }   
-    
+
